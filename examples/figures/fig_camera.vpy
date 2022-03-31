@@ -9,7 +9,7 @@ end
 perspective -l 1,2,3,4,5 --hfov 60
 crop -l 1,2,3,4,5 -- -1cm -1cm 12cm 12cm
 rect -l 7 -- -1cm -1cm 12cm 12cm
-text -l5 -p 5cm 11.5cm -s 25 -a center "default"
+text -l5 -p 5cm 11.5cm -s 30 -a center "default"
 lmove 1,2,3,4,5 6
 translate -l6,7 %dx% 0
 
@@ -20,7 +20,7 @@ end
 perspective -l 1,2,3,4,5 --hfov 60 --pan 25
 crop -l 1,2,3,4,5 -- -1cm -1cm 12cm 12cm
 rect -l 7 -- -1cm -1cm 12cm 12cm
-text -l5 -p 5cm 11.5cm -s 25 -a center "pan = 25deg"
+text -l5 -p 5cm 11.5cm -s 30 -a center "pan = 25deg"
 lmove 1,2,3,4,5 6
 translate -l6,7 %dx% 0
 
@@ -31,8 +31,8 @@ end
 perspective -l 1,2,3,4,5 --hfov 60 --pan 25 --tilt  45
 crop -l 1,2,3,4,5 -- -1cm -1cm 12cm 12cm
 rect -l 7 -- -1cm -1cm 12cm 12cm
-text -l5 -p 5cm 11.5cm -s 25 -a center "pan = 25deg"
-text -l5 -p 5cm 12.3cm -s 25 -a center "tilt = 45deg"
+text -l5 -p 5cm 11.5cm -s 30 -a center "pan = 25deg"
+text -l5 -p 5cm 12.5cm -s 30 -a center "tilt = 45deg"
 lmove 1,2,3,4,5 6
 translate -l6,7 %dx% 0
 
@@ -43,9 +43,9 @@ end
 perspective -l 1,2,3,4,5 --hfov 60 --pan 25 --tilt  45 --move 0 5cm 0
 crop -l 1,2,3,4,5 -- -1cm -1cm 12cm 12cm
 rect -l 7 -- -1cm -1cm 12cm 12cm
-text -l5 -p 5cm 11.5cm -s 25 -a center "pan = 25deg"
-text -l5 -p 5cm 12.3cm -s 25 -a center "tilt = 45deg"
-text -l5 -p 5cm 13.1cm -s 25 -a center "move = (0, 5cm, 0)"
+text -l5 -p 5cm 11.5cm -s 30 -a center "pan = 25deg"
+text -l5 -p 5cm 12.5cm -s 30 -a center "tilt = 45deg"
+text -l5 -p 5cm 13.5cm -s 30 -a center "move = (0, 5cm, 0)"
 lmove 1,2,3,4,5 6
 translate -l6,7 %dx% 0
 
