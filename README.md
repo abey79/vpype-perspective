@@ -2,7 +2,7 @@
 
 *vpype-perspective* is a [*vpype*](https://github.com/abey79/vpype) plug-in to bring your 2D artwork in 3D space and render it in perspective. This project both aims to be a usable tool enabling new creative possibilities, and educational material demonstrating advanced uses of *vpype* and 3D computer graphics math basics.   
 
-![](examples/images/wobbley_cylinders_like_1_plotted.jpg)![](examples/images/boxes1_like_1_doubled_in_perspective.jpeg)
+<img src="https://raw.githubusercontent.com/abey79/vpype-perspective/main/examples/images/wobbley_cylinders_like_1_plotted.jpg" height="600" /> <img src="https://raw.githubusercontent.com/abey79/vpype-perspective/main/examples/images/boxes1_like_1_doubled_in_perspective.jpeg" height="600" />
 
 
 ## Installation
