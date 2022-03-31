@@ -7,7 +7,7 @@ repeat 5
         text -l %_i+1% -p 0.1cm 0.2cm -s 12 "layer %_i+1%"
     end
 
-    text -l5 -p 5cm 11cm -s 25 -a center "move = (%move%cm, 0, 0)"
+    text -l5 -p 5cm 11cm -s 32 -a center "move = (%move%cm, 0, 0)"
     perspective -l 1,2,3,4,5 --move %move%cm 0 0 --hfov 60
     lmove 1,2,3,4,5 6
     scale -l6 0.5 0.5

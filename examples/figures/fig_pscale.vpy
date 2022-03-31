@@ -27,4 +27,4 @@ lmove 1,2,3,7,8 9
 lmove 4,5,6 10
 text -l9 -p 6cm 14cm -s 25 -a left -- "pscale -l 4,5,6 -o world .5 .5 .5"
 
-layout -l -m 0.3cm 8x16cm
+layout -l -m 0.3cm 14x30cm

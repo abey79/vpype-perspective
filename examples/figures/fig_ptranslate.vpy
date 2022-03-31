@@ -27,4 +27,4 @@ lmove 1,2,3,7,8 9
 lmove 4,5,6 10
 text -l9 -p 5cm 14.5cm -s 25 -a left -- "ptranslate -l 4,5,6 -a 3cm 0 0"
 
-layout -l -m 0.3cm 8x16cm
+layout -l -m 0.3cm 14x30cm

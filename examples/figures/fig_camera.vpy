@@ -51,4 +51,4 @@ translate -l6,7 %dx% 0
 
 
 color -l7 grey
-layout -l -m 0.3cm 7x30cm
+layout -l -m 0.3cm 9x30cm

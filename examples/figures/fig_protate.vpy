@@ -27,4 +27,4 @@ lmove 1,2,3,7,8 9
 lmove 4,5,6 10
 text -l9 -p 6cm 14cm -s 25 -a left -- "protate -l 4,5,6 -o world y 20"
 
-layout -l -m 0.3cm 8x16cm
+layout -l -m 0.3cm 14x30cm

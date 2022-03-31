@@ -36,4 +36,4 @@ text -l6 -p 1.5cm 11cm -s 25 -a left "delta_z = 0.2cm"
 lmove 1,2,3,4,5 6
 
 
-layout -l -m 0.3cm 8x20cm
+layout -l -m 0.3cm 12x30cm
