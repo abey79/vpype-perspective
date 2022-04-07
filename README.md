@@ -7,17 +7,17 @@
 
 ## Installation
 
-**IMPORTANT**: *vpype-perspective* relies on the master branch of *vpype* and is not compatible with the latest release (*vpype* 1.9.0). The following instructions reflects this.
+**Note**: *vpype-perspective* requires *vpype* 1.10 or later.
 
-Install/upgrade *vpype* to master:
+If you haven't already, install *vpype* by following the [installation instructions](https://vpype.readthedocs.io/en/latest/install.html).
+
+You can ensure that *vpype* is up-to-date with the following command:
 
 ```bash
-$ pipx install --force git+https://github.com/abey79/vpype@master
+$ pipx upgrade vpype
 ```
 
-*Note*: installing on Apple silicon/M1 hardware requires specific steps, see *vpype*'s  [installation instructions](https://vpype.readthedocs.io/en/latest/install.html) for more information.
-
-Add *vpype-perspective* to your *vpype* installation:
+Then, add *vpype-perspective* to your *vpype* installation:
 
 ```bash
 $ pipx inject vpype git+https://github.com/abey79/vpype-perspective

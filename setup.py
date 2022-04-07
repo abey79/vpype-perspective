@@ -19,7 +19,7 @@ setup(
     install_requires=[
         "click",
         "numpy",
-        "vpype[all] @ git+https://github.com/abey79/vpype@master#egg=vpype",
+        "vpype[all]>=1.10",
     ],
     entry_points="""
             [vpype.plugins]
