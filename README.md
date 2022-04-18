@@ -20,7 +20,7 @@ $ pipx upgrade vpype
 Then, add *vpype-perspective* to your *vpype* installation:
 
 ```bash
-$ pipx inject vpype git+https://github.com/abey79/vpype-perspective
+$ pipx inject vpype vpype-perspective
 ```
 
 Check that your install is successful:
