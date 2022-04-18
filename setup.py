@@ -8,7 +8,7 @@ with open("LICENSE") as f:
 
 setup(
     name="vpype-perspective",
-    version="0.1.0-alpha.0",
+    version="0.1.0-alpha.1",
     description="Put your art in perspective with vpype.",
     long_description=readme,
     long_description_content_type="text/markdown",
